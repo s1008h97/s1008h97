@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/-Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white">
@@ -52,8 +52,8 @@
   
 </div>
 
-<div align="right">
+<!-- <div align="right">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1008h97%2Fhit-counter&count_bg=%23555555&title_bg=%23969696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+</div> -->
