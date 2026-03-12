@@ -10,6 +10,8 @@
   </br>
   
   ### 💻 Work Experience
+  <b>TouchNgo</b> / Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-01.2026~-lightgrey"> </br>
+  <b>Interpass</b> / Junior Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-12.2024~12.2025-lightgrey"> </br>
   <b>Enliple</b> / Junior Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-05.2021~05.2022-lightgrey"> </br>
   <b>i-Aurora</b> / Research Engineer / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-01.2021~04.2021-lightgrey"> </br>
   <b>Neoapp</b> / Staff / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-08.2017~07.2020-lightgrey">
