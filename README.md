@@ -1,7 +1,4 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:888888&height=260&section=header&text=Seohyeon%20Kim&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Android%20Developer&descAlignY=58&descSize=22)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=520&lines=Think+Positive!;Hi+there%2C+Welcome+to+my+GitHub+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s1008h97&label=Profile%20views&color=444444&style=flat-square)
