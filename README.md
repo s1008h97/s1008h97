@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=520&lines=Think+Positive!;Hi+there%2C+Welcome+to+my+GitHub+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=520&lines=Think+Positive!;Hi+there%2C+Welcome+to+my+GitHub+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s1008h97&label=Profile%20views&color=444444&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kim-seohyeon/)
