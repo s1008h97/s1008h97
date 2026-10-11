@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:888888&height=260&section=header&text=Seohyeon%20Kim&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=22)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white)](https://s1008h97.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kim-seohyeon/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:s971008h@gmail.com)
