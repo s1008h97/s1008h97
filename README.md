@@ -1,59 +1,75 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=444444&height=300&section=header&text=Seohyeon%20Kim&fontColor=ffffff&fontSize=70&fontAlign=70&fontAlignY=40&desc=Android%20Devoloper&descAlign=87&descAlignY=55)
-  
-  <b>Think Positive!</b> Hi there, Welcome to my github. </br>
-  I was mainly in charge of developing reward apps and I uploaded a total of 10 apps to the play store. </br>
-  also I had operations and photoshop certificates as needed, so I did simple photoshop and resource modification.
-  </br>
-  </br>
-  </br>
-  
-  ### 💻 Work Experience
-  <b>TouchNgo</b> / Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-01.2026~-lightgrey"> </br>
-  <b>Interpass</b> / Junior Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-12.2024~12.2025-lightgrey"> </br>
-  <b>Enliple</b> / Junior Manager / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-05.2021~05.2022-lightgrey"> </br>
-  <b>i-Aurora</b> / Research Engineer / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-01.2021~04.2021-lightgrey"> </br>
-  <b>Neoapp</b> / Staff / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-08.2017~07.2020-lightgrey">
-  </br>
-  </br>
-  
-  ### 🏫 Education
-  <b>Sookmyung Women's University</b> / Master of Business Administration, MBA / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-03/2020~02/2023-lightgrey"> </br>
-  <b>The Cyber University of Korea</b> / Bachelor's degree / Seoul, Republic of Korea <img src="https://img.shields.io/badge/-03/2018~02/2020-lightgrey"> </br>
-  <b>Yuhan University</b> / Associate's degree / Gyeonggi-do, Republic of Korea <img src="https://img.shields.io/badge/-03/2016~02/2018-lightgrey">
-  </br>
-  </br>
-  
-  ### 📝 Used Tool & Skill
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/-Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
-  </br>
-  </br>
-  
-  ### 👇 Contact me to get to know me better! 👇
-  <a href="https://www.linkedin.com/in/kim-seohyeon/"> <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"> </a>
-  <a href="mailto: s971008h@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-  
-  </br>
-  </br>
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:888888&height=260&section=header&text=Seohyeon%20Kim&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Android%20Developer&descAlignY=58&descSize=22)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=520&lines=Think+Positive!;Hi+there%2C+Welcome+to+my+GitHub+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=s1008h97&label=Profile%20views&color=444444&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kim-seohyeon/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:s971008h@gmail.com)
+
 </div>
 
-<!-- <div align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1008h97%2Fhit-counter&count_bg=%23555555&title_bg=%23969696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 About Me
 
-</div> -->
+- 📱 I mainly develop **reward apps** for Android and have published **10 apps** to the Google Play Store.
+- 🎨 I hold operations and Photoshop certificates, so I also handle simple Photoshop work and resource modification.
+- 🌱 Always learning, always thinking positive.
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
+
+</div>
+
+## 💼 Work Experience
+
+| Period | Company | Role | Location |
+| --- | --- | --- | --- |
+| 2026.01 ~ Present | **TouchNgo** | Manager | Seoul, Republic of Korea |
+| 2024.12 ~ 2025.12 | **Interpass** | Junior Manager | Seoul, Republic of Korea |
+| 2021.05 ~ 2022.05 | **Enliple** | Junior Manager | Seoul, Republic of Korea |
+| 2021.01 ~ 2021.04 | **i-Aurora** | Research Engineer | Seoul, Republic of Korea |
+| 2017.08 ~ 2020.07 | **Neoapp** | Staff | Seoul, Republic of Korea |
+
+## 🏫 Education
+
+| Period | School | Degree |
+| --- | --- | --- |
+| 2020.03 ~ 2023.02 | **Sookmyung Women's University** | Master of Business Administration (MBA) |
+| 2018.03 ~ 2020.02 | **The Cyber University of Korea** | Bachelor's degree |
+| 2016.03 ~ 2018.02 | **Yuhan University** | Associate's degree |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=s1008h97&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1008h97&layout=compact&theme=default&hide_border=true)
+
+[![Streak](https://streak-stats.demolab.com?user=s1008h97&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 📫 Contact
+
+- 💼 LinkedIn: [kim-seohyeon](https://www.linkedin.com/in/kim-seohyeon/)
+- ✉️ Email: [s971008h@gmail.com](mailto:s971008h@gmail.com)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:888888&height=120&section=footer)
+
+</div>
